@@ -1020,18 +1020,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 
-/** 
- * Pull Quotes
- * -----------
- * markup:
- *
- * <aside class="pull-quote">
- *		<blockquote>
- *			<p></p>
- *		</blockquote>
- *	</aside>
- *
- * --------------------------------------------------------------------- */
 
  
 
@@ -1073,18 +1061,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 
-/** 
- * Stats Tab
- * ---------
- * markup:
- *
- * <ul class="stats-tabs">
- *		<li><a href="#">[value]<em>[name]</em></a></li>
- *	</ul>
- *
- * Extend this object into your markup.
- *
- * --------------------------------------------------------------------- */
+
+
 
 .stats-tabs {
     padding: 0;
